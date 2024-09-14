@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "wait.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "semaphore.h": "c"
+    }
+}
